@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshith-2003
 - 👀 I’m interested in coding,sports and gaming
-- 🌱 I’m currently learning web development,DSA using C++
+- 🌱 I’m currently learning web development,DSA using python
 - 💞️ I’m looking to collaborate on frontend developing 
 - 📫 How to reach me (ganjiakshith517@gmail.com)
 
